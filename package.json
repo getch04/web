@@ -1,0 +1,25 @@
+{
+  "name": "yala_web",
+  "version": "1.0.0",
+  "description": "A web app for yala",
+  "main": "index.js",
+  "repository": "https://github.com/mock-yala/web",
+  "author": "Dawit Aschalew <dawitaschalew.mock@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "next": "^12.2.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-hook-form": "^7.33.1"
+  },
+  "devDependencies": {
+    "@types/node": "^18.0.6",
+    "@types/react": "^18.0.15",
+    "sass": "^1.53.0",
+    "typescript": "^4.7.4"
+  }
+}
